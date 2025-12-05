@@ -1,26 +1,7 @@
 This folder includes some papers​ sent by Mr. Dong, who believes they are among the most essential research​ in this field.
 
-	
-Deep learning for inferring gene relationships from single-cell expression data
-
-10.1073/pnas.1911536116
-
-
-DeepDRIM: a deep neural network to reconstruct cell-type-specific gene regulatory network using single-cell RNA-seq data
-
-10.1093/bib/bbab325
-
-
-Inferring gene regulatory networks from single-cell gene expression data via deep multi-view contrastive learning
-
-10.1093/bib/bbab586
-
-
-ChromaFold predicts the 3D contact from single-cell chromatin accessibility
-
-10.1038/s41467-024-53628-0
-
-
-GCNG: graph convolutional networks for inferring gene interaction from spatial transcriptomics data
-
-10.1186/s13059-020-02214-w
+Deep learning for inferring gene relationships from single-cell expression data(https://doi.org/10.1073/pnas.1911536116)
+DeepDRIM: a deep neural network to reconstruct cell-type-specific gene regulatory network using single-cell RNA-seq data(https://doi.org/10.1093/bib/bbab325)
+Inferring gene regulatory networks from single-cell gene expression data via deep multi-view contrastive learning(https://doi.org/10.1093/bib/bbab586)
+ChromaFold predicts the 3D contact from single-cell chromatin accessibility(https://doi.org/10.1038/s41467-024-53628-0)
+GCNG: graph convolutional networks for inferring gene interaction from spatial transcriptomics data(https://doi.org/10.1186/s13059-020-02214-w)
