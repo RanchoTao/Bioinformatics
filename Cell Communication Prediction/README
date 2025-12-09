@@ -1,1 +1,6 @@
-1
+This folder includes some papers​ sent by Mr. Dong, who believes they are among the most essential research​ in this field.
+
+scNET: learning context-specific gene and cell embeddings by integrating single-cell gene expression data with protein-protein interactions(https://doi.org/10.1038/s41592-025-02627-0)
+NicheNet: modeling intercellular communication by linking ligands to target genes(https://doi.org/10.1038/s41592-019-0667-5)
+Imputing spatial transcriptomics through gene network constructed from protein language model(https://doi.org/10.1038/s42003-024-06964-2)
+Inference and analysis of cell-cell communication using CellChat(https://doi.org/10.1038/s41467-021-21246-9)
